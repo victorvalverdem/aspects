@@ -1,0 +1,1 @@
+El ejemplo de aspect en el repositorio maneja un 'anuncio' transversal al funcionamiento del programa, cumpliendo la consigna para AOP. Esto se realizaría para cualquier reubicación y reutilización del programa.
